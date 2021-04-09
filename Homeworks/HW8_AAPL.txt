@@ -1,0 +1,13 @@
+AAPL Disaggregated Revenue (from 10-Q filed 07/31/19)
+
+Three months ended              6/29/19        6/30/18
+iPhone (1)			 	25,986	   29,470
+Mac (1)						 5,820	    5,258
+iPad (1)			 5,023	    4,634		
+Wearables (2)	 5,525	    3,733
+Services (3)				11,455	   10,170
+     Total net sales (4)	53,809	   53,265
+     
+(1) Products net sales include amortization of the deferred value of unspecified software upgrade rights, which are bundled in the sales price of the respective product.
+(2) Wearables, Home and Accessories net sales include sales of AirPods, Apple TV, Apple Watch, Beats products, HomePod, iPod touch and Apple-branded and third-party accessories.
+(3) Services net sales include sales from the Company’s digital content stores and streaming services, AppleCare, Apple Pay, licensing and other services. Services net sales also include amortization of the deferred value of Maps, Siri and free iCloud services, which are bundled in the sales price of certain products.
